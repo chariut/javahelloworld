@@ -4,7 +4,8 @@ public class JavaHelloWorld
 	{
 		System.out.println("Java Hello World");
 		System.out.println("******************************");
-		System.out.println("good");	
+		System.out.println("good");
+		System.out.println("with hotspot on");	
 	}
 
 }
